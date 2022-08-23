@@ -1,7 +1,5 @@
 *DS_Store 
-css/
-img/
-index.html
 index.html_old
-js/
-tmp/
+tmp/            
+*NeuroStartUP.png_backup/
+*Thumbs.db/
